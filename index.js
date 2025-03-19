@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>JavaScript!</h1>
+    <h1>JavaScript!</h1  >
     <script src="java01.js"></script>
 </body>
 </html>
